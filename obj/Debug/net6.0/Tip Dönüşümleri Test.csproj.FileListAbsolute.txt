@@ -1,0 +1,30 @@
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri Test\bin\Debug\net6.0\Tip Dönüşümleri Test.exe
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri Test\bin\Debug\net6.0\Tip Dönüşümleri Test.deps.json
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri Test\bin\Debug\net6.0\Tip Dönüşümleri Test.runtimeconfig.json
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri Test\bin\Debug\net6.0\Tip Dönüşümleri Test.dll
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri Test\bin\Debug\net6.0\Tip Dönüşümleri Test.pdb
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri Test\obj\Debug\net6.0\Tip Dönüşümleri Test.csproj.AssemblyReference.cache
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri Test\obj\Debug\net6.0\Tip Dönüşümleri Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri Test\obj\Debug\net6.0\Tip Dönüşümleri Test.AssemblyInfoInputs.cache
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri Test\obj\Debug\net6.0\Tip Dönüşümleri Test.AssemblyInfo.cs
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri Test\obj\Debug\net6.0\Tip Dönüşümleri Test.csproj.CoreCompileInputs.cache
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri Test\obj\Debug\net6.0\Tip Dönüşümleri Test.dll
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri Test\obj\Debug\net6.0\refint\Tip Dönüşümleri Test.dll
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri Test\obj\Debug\net6.0\Tip Dönüşümleri Test.pdb
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri Test\obj\Debug\net6.0\Tip Dönüşümleri Test.genruntimeconfig.cache
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri Test\obj\Debug\net6.0\ref\Tip Dönüşümleri Test.dll
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri\bin\Debug\net6.0\Tip Dönüşümleri Test.exe
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri\bin\Debug\net6.0\Tip Dönüşümleri Test.deps.json
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri\bin\Debug\net6.0\Tip Dönüşümleri Test.runtimeconfig.json
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri\bin\Debug\net6.0\Tip Dönüşümleri Test.dll
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri\bin\Debug\net6.0\Tip Dönüşümleri Test.pdb
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri\obj\Debug\net6.0\Tip Dönüşümleri Test.csproj.AssemblyReference.cache
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri\obj\Debug\net6.0\Tip Dönüşümleri Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri\obj\Debug\net6.0\Tip Dönüşümleri Test.AssemblyInfoInputs.cache
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri\obj\Debug\net6.0\Tip Dönüşümleri Test.AssemblyInfo.cs
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri\obj\Debug\net6.0\Tip Dönüşümleri Test.csproj.CoreCompileInputs.cache
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri\obj\Debug\net6.0\Tip Dönüşümleri Test.dll
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri\obj\Debug\net6.0\refint\Tip Dönüşümleri Test.dll
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri\obj\Debug\net6.0\Tip Dönüşümleri Test.pdb
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri\obj\Debug\net6.0\Tip Dönüşümleri Test.genruntimeconfig.cache
+C:\Users\Melih\Desktop\Pratikler\Tip Dönüşümleri\obj\Debug\net6.0\ref\Tip Dönüşümleri Test.dll
